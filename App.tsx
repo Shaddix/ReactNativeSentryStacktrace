@@ -45,7 +45,7 @@ const App = () => {
               <Text style={styles.footer}>Engine: Hermes</Text>
             </View>
           )}
-          <Button onPress={tst}>asdasdasd</Button>
+          <Button onPress={tst} title={"asdasdasd"} />
           <View style={styles.body}>
             <View style={styles.sectionContainer}>
               <Text style={styles.sectionTitle}>Step One</Text>
